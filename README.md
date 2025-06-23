@@ -44,7 +44,7 @@ Follow these instructions to get the project up and running on your local machin
 1.  **Clone the repository:**
     ```sh
     git clone https://github.com/isahanoncel/select.git
-    cd select-box
+    cd select
     ```
 
 2.  **Install dependencies:**
