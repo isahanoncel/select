@@ -43,7 +43,7 @@ Follow these instructions to get the project up and running on your local machin
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/select-box.git
+    git clone https://github.com/isahanoncel/select.git
     cd select-box
     ```
 
