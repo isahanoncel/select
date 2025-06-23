@@ -6,8 +6,6 @@ This is a modern, feature-rich, and highly customizable multi-select dropdown co
 
 Check out the live and interactive demo here: **[https://select-lilac.vercel.app/](https://select-lilac.vercel.app/)**
 
-![Select Component Demo](https://i.imgur.com/gKEMyWh.png)
-
 ---
 
 ## Features
